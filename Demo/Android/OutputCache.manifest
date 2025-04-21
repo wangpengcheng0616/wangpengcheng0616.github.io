@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2570789009
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: defaultpackage_assets_assetraw_actor.bundle
+      Dependencies: {}
+    Info_1:
+      Name: defaultpackage_assets_assetraw_configs.bundle
+      Dependencies: {}
+    Info_2:
+      Name: defaultpackage_assets_assetraw_configs_bytes.bundle
+      Dependencies: {}
+    Info_3:
+      Name: defaultpackage_assets_assetraw_dll.bundle
+      Dependencies: {}
+    Info_4:
+      Name: defaultpackage_assets_assetraw_ui.bundle
+      Dependencies: {}

@@ -1,0 +1,264 @@
+{
+    "Summary": {
+        "YooVersion": "2.3.3-preview",
+        "UnityVersion": "2022.3.53f1c1",
+        "BuildDate": "4/21/2025 11:21:29 PM",
+        "BuildSeconds": 4,
+        "BuildTarget": 13,
+        "BuildPipeline": "BuiltinBuildPipeline",
+        "BuildBundleType": 2,
+        "BuildPackageName": "DefaultPackage",
+        "BuildPackageVersion": "2025-04-21-1401",
+        "BuildPackageNote": "4/21/2025 11:21:25 PM",
+        "UniqueBundleName": true,
+        "EnableAddressable": true,
+        "LocationToLower": false,
+        "IncludeAssetGUID": false,
+        "AutoCollectShaders": true,
+        "IgnoreRuleName": "YooAsset.Editor.NormalIgnoreRule",
+        "ClearBuildCacheFiles": true,
+        "UseAssetDependencyDB": false,
+        "EnableSharePackRule": true,
+        "SingleReferencedPackAlone": true,
+        "EncryptionClassName": "null",
+        "FileNameStyle": 0,
+        "CompressOption": 2,
+        "DisableWriteTypeTree": false,
+        "IgnoreTypeTreeChanges": true,
+        "WriteLinkXML": true,
+        "CacheServerHost": "",
+        "CacheServerPort": 0,
+        "BuiltinShadersBundleName": "",
+        "MonoScriptsBundleName": "",
+        "AssetFileTotalCount": 11,
+        "MainAssetTotalCount": 11,
+        "AllBundleTotalCount": 5,
+        "AllBundleTotalSize": 1656492,
+        "EncryptedBundleTotalCount": 0,
+        "EncryptedBundleTotalSize": 0
+    },
+    "AssetInfos": [
+        {
+            "Address": "Cube",
+            "AssetPath": "Assets/AssetRaw/Actor/Cube.prefab",
+            "AssetGUID": "14515f8505976b04fbdd66ddc61a661c",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_assetraw_actor.bundle",
+            "MainBundleSize": 70476,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "about",
+            "AssetPath": "Assets/AssetRaw/Configs/about.txt",
+            "AssetGUID": "ba11f0707eb5f814392cbf12498aba94",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_assetraw_configs.bundle",
+            "MainBundleSize": 1237,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "item_tbitem",
+            "AssetPath": "Assets/AssetRaw/Configs/bytes/item_tbitem.bytes",
+            "AssetGUID": "daec27c34c6f84ba2b6bb4f6c82e86af",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_assetraw_configs_bytes.bundle",
+            "MainBundleSize": 1543,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "GameLogic.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/GameLogic.dll.bytes",
+            "AssetGUID": "f1e9c9b5ae46649feae42f1cca49bd68",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_assetraw_dll.bundle",
+            "MainBundleSize": 1569571,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "GameProto.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/GameProto.dll.bytes",
+            "AssetGUID": "5454a30b18fdc4ba0810b85dc0c77a30",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_assetraw_dll.bundle",
+            "MainBundleSize": 1569571,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "mscorlib.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/mscorlib.dll.bytes",
+            "AssetGUID": "0e6454f2d819544c7b5fa4005919a8f8",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_assetraw_dll.bundle",
+            "MainBundleSize": 1569571,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "System.Core.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/System.Core.dll.bytes",
+            "AssetGUID": "23e50557f28804a558f3ac8b8ef75c09",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_assetraw_dll.bundle",
+            "MainBundleSize": 1569571,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "System.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/System.dll.bytes",
+            "AssetGUID": "6c0b0338c72cb4aaf86073300d9733bf",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_assetraw_dll.bundle",
+            "MainBundleSize": 1569571,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "TEngine.Runtime.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/TEngine.Runtime.dll.bytes",
+            "AssetGUID": "d32b514bbc14e4ccb8601eaa1d00679a",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_assetraw_dll.bundle",
+            "MainBundleSize": 1569571,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "UniTask.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/UniTask.dll.bytes",
+            "AssetGUID": "74db6231b1f4e463e95ab13fa7033603",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_assetraw_dll.bundle",
+            "MainBundleSize": 1569571,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "LoginUI",
+            "AssetPath": "Assets/AssetRaw/UI/LoginUI.prefab",
+            "AssetGUID": "3f4849d649e5a9647acda84aea936e20",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_assetraw_ui.bundle",
+            "MainBundleSize": 13665,
+            "DependAssets": [],
+            "DependBundles": []
+        }
+    ],
+    "BundleInfos": [
+        {
+            "BundleName": "defaultpackage_assets_assetraw_actor.bundle",
+            "FileName": "bb0be739a0274af3b6f105e54c5ec4ee.bundle",
+            "FileHash": "bb0be739a0274af3b6f105e54c5ec4ee",
+            "FileCRC": "3ed62ed5",
+            "FileSize": 70476,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/AssetRaw/Actor/Cube.prefab",
+                    "AssetGUID": "14515f8505976b04fbdd66ddc61a661c"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_assetraw_configs.bundle",
+            "FileName": "a114ebc03a7326bf6a6f4c285ffab698.bundle",
+            "FileHash": "a114ebc03a7326bf6a6f4c285ffab698",
+            "FileCRC": "74da8f1f",
+            "FileSize": 1237,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/AssetRaw/Configs/about.txt",
+                    "AssetGUID": "ba11f0707eb5f814392cbf12498aba94"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_assetraw_configs_bytes.bundle",
+            "FileName": "c49c44952024543e8a581e38fc0956fb.bundle",
+            "FileHash": "c49c44952024543e8a581e38fc0956fb",
+            "FileCRC": "008ef146",
+            "FileSize": 1543,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/AssetRaw/Configs/bytes/item_tbitem.bytes",
+                    "AssetGUID": "daec27c34c6f84ba2b6bb4f6c82e86af"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_assetraw_dll.bundle",
+            "FileName": "abad30182165f18131ae58e22fa1b8c8.bundle",
+            "FileHash": "abad30182165f18131ae58e22fa1b8c8",
+            "FileCRC": "45fef293",
+            "FileSize": 1569571,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/AssetRaw/DLL/GameLogic.dll.bytes",
+                    "AssetGUID": "f1e9c9b5ae46649feae42f1cca49bd68"
+                },
+                {
+                    "AssetPath": "Assets/AssetRaw/DLL/GameProto.dll.bytes",
+                    "AssetGUID": "5454a30b18fdc4ba0810b85dc0c77a30"
+                },
+                {
+                    "AssetPath": "Assets/AssetRaw/DLL/mscorlib.dll.bytes",
+                    "AssetGUID": "0e6454f2d819544c7b5fa4005919a8f8"
+                },
+                {
+                    "AssetPath": "Assets/AssetRaw/DLL/System.Core.dll.bytes",
+                    "AssetGUID": "23e50557f28804a558f3ac8b8ef75c09"
+                },
+                {
+                    "AssetPath": "Assets/AssetRaw/DLL/System.dll.bytes",
+                    "AssetGUID": "6c0b0338c72cb4aaf86073300d9733bf"
+                },
+                {
+                    "AssetPath": "Assets/AssetRaw/DLL/TEngine.Runtime.dll.bytes",
+                    "AssetGUID": "d32b514bbc14e4ccb8601eaa1d00679a"
+                },
+                {
+                    "AssetPath": "Assets/AssetRaw/DLL/UniTask.dll.bytes",
+                    "AssetGUID": "74db6231b1f4e463e95ab13fa7033603"
+                }
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_assetraw_ui.bundle",
+            "FileName": "ef169d33ebfdc8e56e9e82aa1766715e.bundle",
+            "FileHash": "ef169d33ebfdc8e56e9e82aa1766715e",
+            "FileCRC": "15f005f0",
+            "FileSize": 13665,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/AssetRaw/UI/LoginUI.prefab",
+                    "AssetGUID": "3f4849d649e5a9647acda84aea936e20"
+                }
+            ]
+        }
+    ],
+    "IndependAssets": []
+}
